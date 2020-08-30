@@ -1,0 +1,13 @@
+# general
+.DS_store/
+.vscode/
+core*
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# R
+.RData
+.Rhistory
