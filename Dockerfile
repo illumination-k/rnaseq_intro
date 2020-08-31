@@ -20,7 +20,9 @@ RUN conda install -c bioconda -c conda-forge -c r \
         jupyterlab \
         r-irkernel \
         bioconductor-deseq2 \
-        bioconductor-clusterprofiler
+        bioconductor-clusterprofiler \
+        bioconductor-org.at.tair.db \
+        bioconductor-pathview
 
 RUN pip install \
         pandas \

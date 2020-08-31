@@ -1,0 +1,15 @@
+Starting data and time	Monday 31 August 2020 (07:03:20)
+Ending date and time	Monday 31 August 2020 (07:05:56)
+Time consumed	0 hours, 2 minutes, and 36 seconds
+Number of datasets	1
+Total number of input genes	27586
+Genes included in the analysis	22475
+Genes filtered out from the analysis	5111
+Number of clusters	6
+Total number of genes in clusters	9342
+Genes not included in any cluster	13133
+Min cluster size	1000
+Max cluster size	2554
+Average cluster size	1557.0
+Number of samples (including replicates)	17
+Number of conditions	6
